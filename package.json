@@ -1,0 +1,25 @@
+{
+  "name": "kata-data-structures",
+  "version": "1.0.0",
+  "description": "Data Structures Kata",
+  "main": "index.js",
+  "directories": {},
+  "devDependencies": {
+    "ava": "^0.15.2"
+  },
+  "scripts": {
+    "test": "ava test/**/*.test.js --fail-fast --serial",
+    "test:watch": "ava test/**/*.test.js --fail-fast --serial --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dev-academy-challenges/kata-data-structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-academy-challenges/kata-data-structures/issues"
+  },
+  "homepage": "https://github.com/dev-academy-challenges/kata-data-structures#readme"
+}
